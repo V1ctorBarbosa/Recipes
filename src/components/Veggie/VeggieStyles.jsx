@@ -1,11 +1,16 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.div`
-margin: 4rem 0;
+  margin: 0 10%;
 
   h3{
     color: #F3F2EE;
   }
+
+  @media(max-width: 820px) {
+    margin: 0 2%;
+  }
+
 `;
 
 export const Card = styled.div`

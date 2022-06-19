@@ -1,9 +1,13 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.div`
-  margin: 4rem 0rem;
+  margin: 0 10% 3%;
     h3{
       color: #F3F2EE;
+    }
+
+    @media(max-width: 820px) {
+    margin: 0 2%;
     }
 `;
 

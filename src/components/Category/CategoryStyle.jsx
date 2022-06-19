@@ -44,4 +44,9 @@ svg {
         color: white;
     }
 }
+
+@media(max-width: 820px) {
+    width: 4.5rem;
+    height: 4.5rem;    
+}
 `;
