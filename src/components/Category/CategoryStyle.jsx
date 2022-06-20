@@ -14,7 +14,7 @@ export const SLink = styled(NavLink)`
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    margin-right: 2rem;
+    margin-right: 1rem;
     text-decoration: none;
     background: linear-gradient(to right, #4D7834, #83BC62 );
     width: 6rem;
@@ -22,7 +22,6 @@ export const SLink = styled(NavLink)`
     cursor: pointer;
     transform: scale(0.8);
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.6);
-
 h4 {
     color: white;
     font-size: .9rem;
@@ -45,8 +44,4 @@ svg {
     }
 }
 
-@media(max-width: 820px) {
-    width: 4.5rem;
-    height: 4.5rem;    
-}
 `;

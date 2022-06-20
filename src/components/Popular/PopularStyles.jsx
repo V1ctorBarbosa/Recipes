@@ -2,8 +2,11 @@ import styled from "styled-components";
 
 export const Wrapper = styled.div`
   margin: 0 10% 3%;
+
     h3{
       color: #F3F2EE;
+      display: flex;
+      justify-content: center;
     }
 
     @media(max-width: 820px) {

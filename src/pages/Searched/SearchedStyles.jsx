@@ -8,7 +8,6 @@ export const Grid = styled(motion.div)`
 `;
 
 export const Card = styled.div`
-
   box-shadow: 10px 5px 5px black;
   border-radius: 20px;
   padding: 2rem;
@@ -32,7 +31,5 @@ export const Card = styled.div`
     margin-top: 20px;
     border-radius: 20px;
     background: linear-gradient(35deg, #982838, #982810ff);
-    font-family: 'Playfair Display', serif;
-    font-size: 1.5rem;
   }
 `;
