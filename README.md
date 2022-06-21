@@ -1,19 +1,31 @@
-# Recipes
+# 🍽️ Recipes
 
 #### - Recipes is an app made with <a href="https://reactjs.org/">React</a> to search for Recipes.
 #### - Data is fetched from <a href="https://spoonacular.com/">Spoonacular API</a>. 
 
 <img src="https://user-images.githubusercontent.com/101783823/171920038-efb31f36-adee-4a09-b7b2-e82bc46d66cd.png">
 
-#### - Recipes can be searched using the icons that point to specific nationality pages, or the search bar.
+## 🛠️ Built with
 
-  ![Vídeo sem título ‐ Feito com o Clipchamp](https://user-images.githubusercontent.com/101783823/171937595-e2d9e48f-19c5-4c5c-89d2-b267dbd03c55.gif)
+* HTML5
+* CSS3
+* Javascript
+* React
+* Hooks
+* Props
+* JSX
+* Styled-Components
+* API data
 
-#### - The search will lead to a list of recipes that you can select to have information about the ingredients and the way of preparation.
+### 📋 Prerequisites
 
-<img src="https://user-images.githubusercontent.com/101783823/171950028-7f396033-f5b9-4b2f-8db2-68ee8acfa2da.png">
+To edit this project, you can fork it, clone down this repository or download it to your computer. You need to have installed:
 
-## Installation and Setup Instructions
+```
+Visual Studio Code (or any text editor);
+```
+
+## ⚙️ Installation and Setup Instructions
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
@@ -31,5 +43,9 @@ To Start Server:
 
 To Visit App:
 
-`localhost:3000/`
+`localhost:3000/ideas`
+
+---
+Made with ❤️ by [Victor](https://github.com/V1ctorBarbosa) 🐶
+
 
