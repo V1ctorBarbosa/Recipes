@@ -43,7 +43,7 @@ To Start Server:
 
 To Visit App:
 
-`localhost:3000/ideas`
+`localhost:3000`
 
 ---
 Made with ❤️ by [Victor](https://github.com/V1ctorBarbosa) 🐶
